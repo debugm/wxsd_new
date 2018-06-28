@@ -1,0 +1,48 @@
+<?php 
+header ( 'Content-type:text/html;charset=utf-8' );
+include_once '../func/secureUtil.php';
+include_once '../func/HFBConfig.php';
+
+// 初始化日志
+$log = new PhpLog ( SDK_LOG_FILE_PATH, "PRC", SDK_LOG_LEVEL );
+$log->LogInfo ( "===========处理实时代付请求开始============" );
+
+//加密敏感数据
+if (! empty( $_POST ['accNo'] )) {
+	$buyerName = $_POST ['accNo']; // 买家姓名
+	$buyerName = encryptData($buyerName);
+	$_POST['accNo'] = $buyerName;
+	
+	if(!empty( $_POST ['accName'])){
+		$contact = $_POST ['accName']; //买家联系方式
+		$contact = encryptData($contact);
+		$_POST['accName'] = $contact;
+	}
+	
+}
+date_default_timezone_set("PRC");
+$_POST['tranCode'] = '1001';
+$_POST['merchantNo'] = MERCHANTNO;
+$_POST['version'] = VERSION;
+$_POST['channelNo'] = CHANNELNO;
+list($s1, $s2) = explode(' ', microtime()); 
+$millisecond = (float)sprintf('%.0f', (floatval($s1) + floatval($s2)) * 1000); 
+$data=time();
+$_POST['tranFlow'] = $millisecond;
+$_POST['tranDate'] = date("Ymd");
+$_POST['tranTime'] = date("His");
+$_POST['currency'] = 'RMB';
+$_POST['ext1'] = '';
+$_POST['ext2'] = '';
+$_POST['YUL1'] = '';
+$_POST['YUL2'] = '';
+$_POST['YUL3'] = '';
+//签名 
+sign($_POST);
+
+$result = post ( $_POST, HFB_PAY_URL, $errMsg );
+$resultData=convertStringToArray($result);
+$flag = verify($resultData);
+
+echo $flag;
+

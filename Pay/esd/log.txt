@@ -1,0 +1,83 @@
+2018-02-08 16:54:01{
+  "charset": "uft-8",
+  "err_code": "ok",
+  "err_msg": "ok",
+  "mch_create_ip": "127.0.0.1",
+  "merchantid": "1063",
+  "message": "ok",
+  "nonce_str": "997086171",
+  "orderid": "18020816523894695436655",
+  "remarks": "",
+  "result_code": "0",
+  "service": "HFQQWAP",
+  "shoporderId": "20180208165232",
+  "sign": "F4D50D7DFC9CEEA110B9782171436EBC",
+  "sign_type": "md5",
+  "status": "0",
+  "storenumber": "",
+  "total_fee": "1.00",
+  "version": "v1.0"
+}
+2018-02-08 16:54:18{
+  "charset": "uft-8",
+  "err_code": "ok",
+  "err_msg": "ok",
+  "mch_create_ip": "127.0.0.1",
+  "merchantid": "1063",
+  "message": "ok",
+  "nonce_str": "-1489261057",
+  "orderid": "18020816523894695436655",
+  "remarks": "",
+  "result_code": "0",
+  "service": "HFQQWAP",
+  "shoporderId": "20180208165232",
+  "sign": "79EADC30558A4DE25757506FC8E2AD87",
+  "sign_type": "md5",
+  "status": "0",
+  "storenumber": "",
+  "total_fee": "1.00",
+  "version": "v1.0"
+}
+2018-02-08 16:54:48{
+  "charset": "uft-8",
+  "err_code": "ok",
+  "err_msg": "ok",
+  "mch_create_ip": "127.0.0.1",
+  "merchantid": "1063",
+  "message": "ok",
+  "nonce_str": "202296078",
+  "orderid": "18020816523894695436655",
+  "remarks": "",
+  "result_code": "0",
+  "service": "HFQQWAP",
+  "shoporderId": "20180208165232",
+  "sign": "26F090F512227DC254502CFC18C4F6C2",
+  "sign_type": "md5",
+  "status": "0",
+  "storenumber": "",
+  "total_fee": "1.00",
+  "version": "v1.0"
+}
+2018-02-08 17:00:24{"charset":"uft-8","err_code":"ok","err_msg":"ok","mch_create_ip":"127.0.0.1","merchantid":"1063","message":"ok","nonce_str":"b4f8d42b0c9143018ebbc364a5f9ff32","orderid":"18020816523894695436655","result_code":"0","service":"HFQQWAP","shoporderId":"20180208165232","sign":"B7539C5B2CF6102A8CAE449820ABD414","sign_type":"md5","status":"0","total_fee":"1.00","version":"v1.0"}
+2018-02-08 18:59:41{
+  "charset": "uft-8",
+  "err_code": "ok",
+  "err_msg": "ok",
+  "mch_create_ip": "127.0.0.1",
+  "merchantid": "1063",
+  "message": "ok",
+  "nonce_str": "-1169733405",
+  "orderid": "18020818572985275084880",
+  "remarks": "",
+  "result_code": "0",
+  "service": "HFYLWAP",
+  "shoporderId": "20180208185723",
+  "sign": "191A6C5633BE2DB04825C15A9778FB8F",
+  "sign_type": "md5",
+  "status": "0",
+  "storenumber": "",
+  "total_fee": "1.00",
+  "version": "v1.0"
+}
+2018-02-08 19:03:11{"charset":"uft-8","err_code":"ok","err_msg":"ok","mch_create_ip":"127.0.0.1","merchantid":"1063","message":"ok","nonce_str":"5d4d9617cce445179caef666a8f8d5f1","orderid":"18020818572985275084880","result_code":"0","service":"HFYLWAP","shoporderId":"20180208185723","sign":"96080A204278E26A832670D8E8A352DF","sign_type":"md5","status":"0","total_fee":"1.00","version":"v1.0"}
+2018-02-08 19:03:29{"charset":"uft-8","err_code":"ok","err_msg":"ok","mch_create_ip":"127.0.0.1","merchantid":"1063","message":"ok","nonce_str":"97574b825c5b4986a4671472c063ea10","orderid":"18020818572985275084880","result_code":"0","service":"HFYLWAP","shoporderId":"20180208185723","sign":"86E1C7CACD2354CBA132D42D430ADB84","sign_type":"md5","status":"0","total_fee":"1.00","version":"v1.0"}

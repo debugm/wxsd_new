@@ -1,0 +1,86 @@
+<?php
+//ini_set("display_errors", "On");
+//error_reporting(E_ALL | E_STRICT);
+require 'ApiClient.php';
+function getIP() { 
+	if (isset($_SERVER)) { 
+	if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) { 
+	$realip = $_SERVER['HTTP_X_FORWARDED_FOR']; 
+	} elseif (isset($_SERVER['HTTP_CLIENT_IP'])) { 
+	$realip = $_SERVER['HTTP_CLIENT_IP']; 
+	} else { 
+	$realip = $_SERVER['REMOTE_ADDR']; 
+	} 
+	} else { 
+	if (getenv("HTTP_X_FORWARDED_FOR")) { 
+	$realip = getenv( "HTTP_X_FORWARDED_FOR"); 
+	} elseif (getenv("HTTP_CLIENT_IP")) { 
+	$realip = getenv("HTTP_CLIENT_IP"); 
+	} else { 
+	$realip = getenv("REMOTE_ADDR"); 
+	} 
+	} 
+	return $realip; 
+}
+
+$oid = $_GET['oid']."_".date('YmdHis').rand(1000,9999);
+$nurl = $_GET['url'];
+$amt = $_GET['amt'];
+$subid = $_GET['subid'];
+$skid = $_GET['skid'];
+$jurl = $_GET['jumpurl'];
+
+$client = new ApiClient();
+$client->appId = '2018031273158834';
+$client->secret = 'y1LtH4cIaBCEsv92MOnKj7eFW0QqxGwX';
+$ip = $_GET['clip'];
+try{
+$response = $client->call('weixin.h5_pay',array(
+    'merchant_no' => $skid,
+    'out_trade_no' => $oid,
+    'goods_tag' => '123123123',     //商品标记
+    'order_name' => 'charge',
+    'total_amount' => $amt,
+    'spbill_create_ip' => $ip,
+    'notify_url' => $nurl,
+    'sceneInfo' => json_encode(array(
+        'h5_info' => array( 
+            'type' => 'Wap',
+            'wap_url' => 'http://www.baidu.com',
+            'wap_name' => 'BAIDU'
+       ) 
+    )),
+    'sub_mch_id' => $subid 
+));
+    file_put_contents("./log.txt.resp",date('Y-m-d H:i:s')."----'{$subid}'----".json_encode($response)."----resp----\n",FILE_APPEND);
+}
+catch(Exception $e)
+ {
+ $str = 'dongjie-'.$subid.'-'.$e->getMessage();
+file_put_contents("./log.txt.dongjie",date('Y-m-d H:i:s')."----{$subid}---".$str."----dongjiele----\n",FILE_APPEND);
+
+if(strpos($str,'订单号已存在') != false)
+{
+	echo "oidexists";
+	exit();
+}
+if(strpos($str,'无效的商户') != false)
+{
+echo "dongjie";
+exit();
+}
+ }
+//var_dump($response);exit();
+//$response = json_decode($response,true);
+$pay_url = $response['pay_url'];
+if($pay_url)
+{
+    echo $url = "http://".$jurl."/Pay/hm/jump.php?url=".urlencode($pay_url);
+}
+else
+{
+    file_put_contents("./log.txt.failed",date('Y-m-d H:i:s')."----{$subid}----".json_encode($response)."----error----\n",FILE_APPEND);
+    echo "failed";
+}
+exit();
+?>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang=zh>
+<head>
+<meta charset=UTF-8>
+<title>聚合收银台</title>
+<link href="css/m_cashier.css" rel="stylesheet">
+</head>
+<body>
+<div class="totalSum">
+  <h2>订单金额</h2>
+  <span style="font-size:30px;">¥0.10</span> </div>
+<div class="receiveList">
+  <ul>
+    <li class="borderBtm"><span class="reTitle">商户名称：</span><span class="reDetail" style="color:#09F">XXX</span></li>
+    <li><span class="reTitle">商品名称：</span><span class="reDetail" style="color:#09F">支付演示</span></li>
+  </ul>
+</div>
+<div class="payqdList">
+  <ul>
+    <li>
+      <label>
+      <input style="float:left; margin-top:10px; margin-right:8px; margin-left:8px; height:18px; width:18px" type="radio" value="wxpay" name="pay_type" checked="checked">
+      <div class="payqdPic fll weixin"><img src="images/zhifubao.png" alt="支付宝"></div>
+      <div class="payqdName fll">
+        <h2>微信支付</h2>
+        <p>推荐微信用户使用</p>
+      </div>
+      <div class="payqdIco flr"></div>
+      </label>
+    </li>
+    <li>
+      <label>
+      <input style="float:left; margin-top:10px; margin-right:8px; margin-left:8px; height:18px; width:18px" type="radio" value="tenpay" name="pay_type">
+      <div class="payqdPic fll tenpay"><img src="images/zhifubao.png" alt="支付宝"></div>
+      <div class="payqdName fll">
+        <h2>QQ钱包</h2>
+        <p>推荐QQ用户使用</p>
+      </div>
+      <div class="payqdIco flr"></div>
+      </label>
+    </li>
+    <li>
+      <label>
+      <input style="float:left; margin-top:10px; margin-right:8px; margin-left:8px; height:18px; width:18px" type="radio" value="renzhengchuxuka" name="pay_type">
+      <div class="payqdPic fll quick"><img src="images/zhifubao.png" alt="支付宝"></div>
+      <div class="payqdName fll">
+        <h2>储蓄卡</h2>
+        <p>单笔最低500元，最高20000元</p>
+      </div>
+      <div class="payqdIco flr"></div>
+      </label>
+    </li>
+    <li>
+      <label>
+      <input style="float:left; margin-top:10px; margin-right:8px; margin-left:8px; height:18px; width:18px" type="radio" value="alipay" name="pay_type">
+      <div class="payqdPic fll alipay"><img src="images/zhifubao.png" alt="支付宝"></div>
+      <div class="payqdName fll">
+        <h2>支付宝支付</h2>
+        <p>推荐支付宝用户使用</p>
+      </div>
+      <div class="payqdIco flr"></div>
+      </label>
+    </li>
+  </ul>
+</div>
+<div class="up_s" style="margin-top:10px"> <a href="javascript:void(0)" onclick="okpay()">立即付款</a></div>
+<div class="exp">
+<font color="#FF0000">商户热线：400-052-9999</font>
+<p>该支付由XXX支付提供技术支持服务 </p>
+</div>
+</body>
+</html>

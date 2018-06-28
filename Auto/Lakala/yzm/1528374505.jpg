@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+<title>报错页面</title>
+<style type="text/css">
+*{margin:0px;padding:0px;}
+body{padding-left:35px;color:#454545;padding-top:35px;min-width:600px;font-size:12px;font-family:Arial, '宋体';}
+a{color:#007ab7;text-decoration:none;}
+a:hover{color:#de1d6a;text-decoration:none;}
+.error{width:80px;height:90px;position:absolute;left:30px;top:30px;overflow:hidden;}
+h2{font-size:16px;position:absolute;left:115px;top:35px;}
+h3{position:absolute;left:115px;top:60px;font-weight:normal;font-size:10px;color:#ccc;z-index:99999;}
+hr{height:1px;border:solid 0px #000;border-bottom:solid 1px #ddd;margin:40px 50px 0px 80px;}
+.content{font-size:13px;margin:5px 0px 0px 80px;*margin-top:0px;line-height:24px;}
+.content ul{padding:10px 0px 35px 35px;color:#666 !important;}
+strong{margin-left:85px;}
+</style>
+</head>
+
+<body>
+<div class="error"><img src="/images/lakala/error.png" /></div>
+<h2>对不起，页面中有致命错误，请认真检查……</h2>
+<h3>Sorry, an error page , please carefully check...</h3>
+<hr />
+<div class="content">发现页面中有致命错误，最可能的原因是： 
+    <ul>
+        <li>在地址中可能存在键入错误。</li>
+        <li>当你点击某个链接时，它可能已过期。</li>
+        <li>请求的数据具有新的位置且更改是永久的。</li>
+        <li>请求的数据临时具有不同URI。</li>
+        <li>可在另一URI下找到对请求的响应，且应使用GET方法检索此响应。</li>
+        <li>必须通过位置字段中提供的代理来访问请求的资源。</li>
+        <li>必须通过位置字段中提供的代理来访问请求的资源。</li>
+    </ul>
+</div>
+<strong>您可以继续浏览其它内容</strong>
+(<a href="http://s.lakala.com/">http://s.lakala.com/</a>):
+</body>
+</html>
