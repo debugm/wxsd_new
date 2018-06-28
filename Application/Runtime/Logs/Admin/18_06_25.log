@@ -1,0 +1,2660 @@
+[ 2018-06-25T23:53:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242834
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806942
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555124
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270700
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038490
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242835
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806943
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555125
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001022s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270701
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038491
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242836
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806944
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555126
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270702
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038492
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242837
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806945
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555127
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270703
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:53:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038493
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242838
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806946
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270704
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000452s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001047s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038494
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806947
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555129
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270705
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038495
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242840
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806948
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555130
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270706
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038496
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242841
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806949
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555131
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270707
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242842
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806950
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555132
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270708
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038498
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242843
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806951
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555133
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270709
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:54:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038499
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242844
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806952
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555134
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270710
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038500
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242845
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806953
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001305s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555135
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270711
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038501
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242846
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806954
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555136
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270712
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038502
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242847
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806955
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001324s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270713
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038503
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242848
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806956
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555138
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270714
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038504
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242849
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806957
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555139
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270715
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000933s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:55:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038505
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:00+08:00 ] 134.159.85.67 /Admin_Dealmanages_wxord.html?payid=&shname=&remark=&r=15&status=-1&cgdateks=&cgdatejs=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000879s ]
+SQL: SHOW COLUMNS FROM `pay_wxa` [ RunTime:0.0006s ]
+SQL: SELECT SUM(amt) AS tp_sum FROM `pay_wxa` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: where /home/wwwroot/wxsd2.com/Application/Admin/Controller/AdminController.class.php 第 74 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wxa` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id`,`amt`,`wxname`,`paytime`,`wxmsgid`,`remark`,`payid`,`push`,`errmsg`,`mendian` FROM `pay_wxa` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: amount /home/wwwroot/wxsd2.com/Application/Admin/Controller/DealmanagesController.class.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: cgdate_ks /home/wwwroot/wxsd2.com/Application/Runtime/Cache/Admin/40c3c681a9d3174fc4e356a28978920a.php 第 75 行.
+NOTIC: [8] Undefined index: cgdate_js /home/wwwroot/wxsd2.com/Application/Runtime/Cache/Admin/40c3c681a9d3174fc4e356a28978920a.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-06-25T23:56:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242850
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:04+08:00 ] 134.159.85.67 /Admin_Dealmanages_wxord.html?payid=&shname=&remark=&r=15&status=-1&cgdateks=&cgdatejs=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `pay_wxa` [ RunTime:0.0005s ]
+SQL: SELECT SUM(amt) AS tp_sum FROM `pay_wxa` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: where /home/wwwroot/wxsd2.com/Application/Admin/Controller/AdminController.class.php 第 74 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wxa` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `id`,`amt`,`wxname`,`paytime`,`wxmsgid`,`remark`,`payid`,`push`,`errmsg`,`mendian` FROM `pay_wxa` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: amount /home/wwwroot/wxsd2.com/Application/Admin/Controller/DealmanagesController.class.php 第 53 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: cgdate_ks /home/wwwroot/wxsd2.com/Application/Runtime/Cache/Admin/40c3c681a9d3174fc4e356a28978920a.php 第 75 行.
+NOTIC: [8] Undefined index: cgdate_js /home/wwwroot/wxsd2.com/Application/Runtime/Cache/Admin/40c3c681a9d3174fc4e356a28978920a.php 第 77 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007121s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-06-25T23:56:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806958
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555140
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270716
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038506
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000900s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242851
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806959
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555141
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270717
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038507
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242852
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806960
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555142
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270718
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038508
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242853
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806961
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000737s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555143
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270719
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038509
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242854
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806962
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001310s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555144
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270720
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038510
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242855
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000915s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806963
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555145
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270721
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:56:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038511
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242856
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806964
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001318s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555146
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270722
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038512
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242857
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806965
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0008s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555147
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000494s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270723
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038513
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242858
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806966
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555148
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038514
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242859
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000887s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555149
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038515
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000993s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242860
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806968
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000867s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555150
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270726
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001035s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038516
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242861
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806969
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000958s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0007s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555151
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270727
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:57:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038517
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242862
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806970
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555152
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000869s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270728
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038518
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242863
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806971
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555153
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270729
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038519
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806972
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555154
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270730
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038520
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242865
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806973
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555155
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270731
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038521
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242866
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806974
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555156
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270732
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038522
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242867
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806975
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555157
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270733
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:58:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038523
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:03+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242868
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:05+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806976
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:07+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555158
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:09+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270734
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:09+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038524
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:13+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242869
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:15+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806977
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:17+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555159
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:19+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270735
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:19+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038525
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:23+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242870
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:25+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806978
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:27+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555160
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:29+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270736
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:29+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038526
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:33+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242871
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:35+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806979
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:37+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555161
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:39+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270737
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:39+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038527
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:43+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242872
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:45+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806980
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:47+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555162
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:49+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270738
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:49+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038528
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:53+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529775242873
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:55+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529940806981
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:57+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529927555163
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:59+08:00 ] 59.148.200.237 /Admin_Tikuan_checkNotice.html?_=1529913270739
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2018-06-25T23:59:59+08:00 ] 134.159.85.67 /Admin_Tikuan_checkNotice.html?_=1529882038529
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+SQL: SHOW COLUMNS FROM `pay_tklist` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_tklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `pay_wttklist` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `pay_wttklist` WHERE `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+

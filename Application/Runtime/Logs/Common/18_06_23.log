@@ -1,0 +1,480 @@
+[ 2018-06-23T18:35:09+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=31&key=1&order=1&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:35:44+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&area_id=9&order=2&key=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:36:22+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=4&key=1&order=2&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:37:05+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=14&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:39:07+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&key=2&order=2&area_id=35&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:39:48+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=2&key=1&area_id=2&gift=1&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:40:28+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=17&type=1&key=3&order=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:41:00+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=9&key=2&order=2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:41:30+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=28&key=1&order=1&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:42:02+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=7&order=1&key=2&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:42:33+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=18&key=2&order=2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:43:02+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=2&key=1&area_id=27&gift=1&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:43:32+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=15&type=1&key=3&order=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:44:01+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=34&order=1&key=2&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:44:29+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=359&type=1&key=3&order=1&area_id=7&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:44:59+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=31&order=2&key=2&type=0&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:45:26+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=4&key=1&order=1&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:45:51+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=2&key=1&order=1&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:46:18+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=8&type=0&key=1&order=2&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:46:44+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&key=2&order=2&area_id=20&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:47:08+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=28&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:47:33+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=25&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:47:57+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&key=2&order=2&area_id=27&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:48:20+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=12&order=2&key=1&type=0&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:48:43+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=6&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:49:21+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=303&area_id=13&gift=0&order=2&key=1&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:49:43+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=15&key=2&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:50:06+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=13&key=1&order=1&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:50:30+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=10&key=2&order=2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:50:53+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=19&type=1&key=3&order=2&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:51:15+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=32&order=1&key=2&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:51:39+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=96&area_id=30&key=0&order=0&gift=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:52:01+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=32&key=2&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:52:23+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=305&key=0&order=0&area_id=28&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:52:45+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=34&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:53:07+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=21&type=1&key=3&order=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:53:27+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=19&key=2&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:53:48+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=96&area_id=30&key=3&order=2&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:54:08+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=13&key=2&order=2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:54:27+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=0&key=0&area_id=23&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:54:47+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&area_id=4&order=2&key=3&gift=0&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:55:05+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&key=2&order=2&area_id=18&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:55:24+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=359&type=0&key=1&order=1&area_id=13&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:55:45+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=16&key=2&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:56:03+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=29&key=3&order=2&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:56:22+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=0&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:56:41+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=23&key=2&order=2&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:56:58+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=1&key=1&area_id=25&gift=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:57:16+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=34&key=2&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:57:33+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=29&type=1&key=3&order=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:57:50+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=1&key=1&area_id=22&gift=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:58:09+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=34&key=0&order=0&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:58:25+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=1&area_id=30&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:58:42+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=359&type=1&key=3&order=1&area_id=12&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:59:01+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=29&order=2&key=1&type=1&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:59:21+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=20&order=1&key=1&type=1&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:59:37+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=1&key=1&area_id=28&gift=1&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T18:59:54+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=28&key=3&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:00:09+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=3&order=0&key=0&type=0&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:00:25+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=2&key=2&area_id=2&gift=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:00:40+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=3&type=1&key=0&order=0&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:00:55+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=345&type=1&area_id=34&key=0&order=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:01:12+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&gift=0&area_id=7&key=1&order=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:01:28+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=1&key=1&area_id=15&gift=1&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:01:44+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=335&area_id=14&key=3&order=1&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:02:00+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=333&order=2&key=1&area_id=31&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:02:16+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=345&type=1&area_id=30&key=0&order=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:02:33+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=2&area_id=15&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:02:49+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=1&key=2&area_id=9&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:03:05+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=8&order=1&key=1&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:03:22+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=129&area_id=35&order=1&key=1&type=1&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:03:38+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=309&area_id=10&type=1&key=0&order=0&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:03:53+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=359&type=1&key=3&order=1&area_id=13&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:04:08+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=2&key=1&area_id=21&type=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:04:22+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=306&area_id=5&key=2&order=1&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:04:37+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=89&key=2&order=2&area_id=33&gift=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:04:52+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=345&type=1&area_id=22&key=0&order=0&gift=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:05:06+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=0&key=0&area_id=26&type=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T19:05:20+08:00 ] 220.181.125.86 /index.php?m=shop&c=brand&a=list&m=shop&brand=277&order=2&key=1&area_id=8&gift=0&type=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 无法加载模块:Shop
+
+[ 2018-06-23T21:04:45+08:00 ] 40.77.167.145 /index.php?m=shop&c=goods&a=index&goods_id=100193
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 无法加载模块:Shop
+
